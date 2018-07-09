@@ -1,4 +1,4 @@
-# The basics of machine learning in Python/tensorflow/keras/adverserial
+# The basics of machine learning in Python/tensorflow/keras/DeepDream
 
 
 ## Authors
